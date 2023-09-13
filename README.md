@@ -9,3 +9,5 @@ Secure amps up an impressive lineup of features primed to elevate your experienc
 
 The Webstar Developer Team expects by the end of September but with a lot more features.
       Stay tuned!
+
+<a href="https://replit.com/github/WebstarDevelopers/Secure"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
